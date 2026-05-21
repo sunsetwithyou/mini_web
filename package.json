@@ -1,0 +1,13 @@
+{
+  "name": "simple-node-localstorage-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app with browser localStorage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
